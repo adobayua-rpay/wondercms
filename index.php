@@ -1,4 +1,26 @@
-<?php
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            background-image: url('marriott_background.jpg'); /* Replace with the actual path to your Marriott hotel background image */
+            background-size: cover;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+            margin: 0;
+        }
+    </style>
+    <title>Hotel Booking</title>
+</head>
+<body>
+    <h1>Adoba has a hotel booking</h1>
+    <p>For December 31, 2023</p>
+</body>
+</html><?php
 /**
  * @package WonderCMS
  * @author Robert Isoski (https://robert.si)
